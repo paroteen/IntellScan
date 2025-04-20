@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:ai_health_platform/utils/theme.dart';
-import 'package:ai_health_platform/screens/home_screen.dart';
-import 'package:ai_health_platform/screens/screening_screen.dart';
+import 'utils/theme.dart';
+import 'screens/home_screen.dart';
+import 'screens/screening_screen.dart';
 
 void main() {
   runApp(const MyApp());
